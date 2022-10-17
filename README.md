@@ -6,6 +6,7 @@ You should guess a number between 1 and 20.
 
 Good luck and have fun!🙂
 
+#
 
 Technologies used: HTML, CSS, JS
 
