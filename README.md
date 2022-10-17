@@ -1,0 +1,7 @@
+# Guess-a-number
+
+This is one of the small projects I did in a course a couple of years ago
+
+You should guess a number between 1 and 20. 
+
+Good luck and have fun!🙂
