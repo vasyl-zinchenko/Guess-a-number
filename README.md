@@ -1,4 +1,4 @@
-# Guess-a-number (non-responsive)
+# Guess a number (non-responsive)
 
 This is one of the small projects I did in a course a couple of years ago
 
