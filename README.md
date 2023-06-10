@@ -10,4 +10,4 @@ Good luck and have fun!🙂
 
 Technologies used: HTML, CSS, JS
 
-Click to see: [DEMO LINK](https://vasylzinchenko.github.io/Guess-a-number/index.html)
+Click to see: [DEMO LINK](https://vasyl-zinchenko.github.io/Guess-a-number/index.html)
